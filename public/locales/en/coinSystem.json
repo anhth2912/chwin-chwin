@@ -1,0 +1,52 @@
+{
+  "common":{
+    "header": {
+      "title": "{{token}} System",
+      "token":" J-point",
+      "description": "Welcome to MetaCV - the innovative and cutting-edge human resource technology (HR-tech) platform!"
+    },
+    "body":{
+      "title": "What is {{token}}?",
+      "content":{
+        "intro": "<1>J-points</1> are the driving force behind our decentralized network's success. They are securely stored, transferred, and managed on a blockchain and a digital representation of assets, currencies, and even the right to access services.",
+        "target": "In addition, J-points are used to build <1>a new new recruiting experience</1> and <3>offer significant benefits</3> to both job seekers and employers.",
+        "for-job-seekers": "During the job How to apply, job seekers will be rewarded with J-points after sharing their CV information with potential employers.",
+        "for-employers": "For employers, J-points are used to incentivize companies to upload more job opportunities on MetaCV.",
+        "business-model": "Business Model",
+        "suggested-by": "Suggested by"
+      },
+      "commit": {
+        "title": "By uploading their CV on MetaCV's platform, job seekers will receive a portion of the fees paid by clients to view their CVs. When employers pay to view CVs:",
+        "first": "30% of the fee will be sent to the candidate in the form of J-points.",
+        "remaining": "The remaining 70% will be deposited into the treasury. The treasury will be used to support the operating costs of the platform and fund the events and employer matching programs that we will develop.This creates a win-win scenario where users can benefit directly from their participation on the platform."
+      },
+      "step":{
+        "use-cases": "Use cases",
+        "gifts": "Gifts",
+        "redeem": "Redeem",
+        "voting-and-overnance": "Voting & Governance",
+        "staking": "Staking",
+        "governance": "Governance",
+        "join": "Join"
+      },
+      "banner": {
+        "search-job": "Search for a new job",
+        "easily": "easily",
+        "quickly": "quickly",
+        "description": "MetaCV accompanies potential candidate to join the recruitment market in a modern and advanced way"
+      }
+    },
+    "content-step": {
+      "gifts": {
+        "job-seekers": "Candidates can redeem their J-points for joining training programs, getting certifications, and other career development activities.",
+        "employers": "Employers can use tokens to purchase access to candidate CVs and pay for other recruitment services on the platform instead of regular credits."
+      },
+      "voting-and-overnance": {
+        "content": "J-points holders have the right to participate in the decision-making process for new directions, updates, and developments of MetaCV. Users that have more J-points have more influence on how the network operates and evolves."
+      },
+      "staking": {
+        "content": "Candidates and clients can stake your J-points to be rewarded with a specific number of J-points calculated by the time that they spend staking."
+      }
+    }
+  }
+}

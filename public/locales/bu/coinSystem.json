@@ -1,0 +1,52 @@
+{
+  "common":{
+    "header": {
+      "title": "Hệ thống {{token}}",
+      "token":" J-point",
+      "description": "Chào mừng bạn đến với MetaCV - nền tảng công nghệ nhân sự (HR-tech) tiên tiến và sáng tạo!"
+    },
+    "body":{
+      "title": "{{token}} là gì?",
+      "content":{
+        "intro": "<1>J-points</1> là yếu tố quan trọng đằng sau thành công của mạng lưới phi tập trung mà MetaCV xây dựng. J-points là một loại tài sản điện tử được sử dụng để truy cập vào các dịch vụ trong hệ sinh thái của MetaCV. Chúng được lưu trữ, chuyển giao và quản lý một cách an toàn trên công nghệ blockchain.",
+        "target": "Với J-points, MetaCV mong muốn xây dựng một trải nghiệm tuyển dụng <1>mới mẻ</1> và mang lại <3>nhiều lợi ích</3> quan trọng cho cả người tìm việc và nhà tuyển dụng.",
+        "for-job-seekers": "Trong quá trình tìm kiếm việc làm, người tìm việc sẽ được thưởng J-points sau khi chia sẻ thông tin CV của mình với nhà tuyển dụng tiềm năng",
+        "for-employers": "Với nhà tuyển dụng, J-points được sử dụng như một phần thưởng để khuyến khích các công ty đăng tải các cơ hội việc làm trên MetaCV",
+        "business-model": "Mô hình hoạt động",
+        "suggested-by": "Được xây dựng bởi"
+      },
+      "commit": {
+        "title": "Bằng cách tải lên CV của mình trên nền tảng của MetaCV, người tìm việc sẽ nhận được một phần của khoản phí mà các nhà tuyển dụng trả để xem CV của họ. Khi các nhà tuyển dụng trả phí để xem CV:",
+        "first": "30% khoản tiền này sẽ được gửi tới ứng viên dưới dạng J-point.",
+        "remaining": "70% còn lại sẽ được gửi vào quỹ vận hành của MetaCV. Quỹ vận hành này sẽ được sử dụng để hỗ trợ chi phí hoạt dộng của nền tảng và tài trợ cho các sự kiện cũng như chương trình kết nối ứng viên với nhà tuyển dụng mà chúng tôi sẽ phát triển."
+      },
+      "step":{
+        "use-cases": "Tác dụng",
+        "gifts": "Quà tặng",
+        "redeem": "Đổi thưởng",
+        "voting-and-overnance": "Bỏ phiếu và Quản trị",
+        "staking": "Staking",
+        "governance": "Quản trị",
+        "join": "Tham gia"
+      },
+      "banner": {
+        "search-job": "Tìm kiếm công việc",
+        "easily": "thuận tiện",
+        "quickly": "nhanh chóng",
+        "description": "MetaCV đồng hành cùng người ứng viên tiềm năng tiếp cận thị trường tuyển dụng bằng phương thức hiện đại và tiên tiến..."
+      }
+    },
+    "content-step": {
+      "gifts": {
+        "job-seekers": "Ứng viên có thể đổi J-points để tham gia các chương trình đào tạo, nhận chứng chỉ và tham gia hoạt động phát triển sự nghiệp khác.",
+        "employers": "Nhà tuyển dụng có thể sử dụng token để mở CV ứng viên và thanh toán cho các dịch vụ tuyển dụng khác trên nền tảng thay cho credit thông thường."
+      },
+      "voting-and-overnance": {
+        "content": "Người nắm giữ J-points có quyền tham gia vào quá trình quyết định cho các hướng đi, cập nhật, phát triển mới của MetaCV. Người dùng có số J-points nhiều hơn sẽ có quyền quyết định lớn hơn."
+      },
+      "staking": {
+        "content": "Các ứng viên và nhà tuyển dụng có thể đặt cọc (stake) J-points để nhận thưởng thêm một lượng J-point được tính toán theo thời gian họ stake."
+      }
+    }
+  }
+}
